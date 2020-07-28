@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_casi" type="id" />
+    <item name="sum_time" type="id" />
+    <item name="ten_bai_hat" type="id" />
+    <item name="IMG_casi" type="id" />
+    <item name="txt_casi" type="id" />
+    <item name="txt_dang_phat" type="id" />
+    <item name="txt_time_play" type="id" />
+    <item name="txt_time_out" type="id" />
+    <item name="bt_next" type="id" />
+    <item name="bt_pause" type="id" />
+    <item name="bt_re" type="id" />
+    <item name="list_nhac" type="id" />
+    <item name="seebar" type="id" />
+</resources>
